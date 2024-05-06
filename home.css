@@ -1,0 +1,64 @@
+*{
+	font-family: arial;
+}
+
+body, h3{
+	margin: 0;
+	padding: 0;
+	color: #fff;
+}
+
+
+
+
+
+
+#pesquisa{
+	height: 200px;
+	background-color: #29345a;
+	padding: 20x;
+}
+
+
+
+#imagem-pesquisa{
+	float: left;
+	margin-left: 45px;
+}
+
+#barra-pesquisa{
+	float: left;
+	margin-top: 75px;
+	margin-left: 200px;
+}
+
+
+
+#conteudo{
+	background-color: #29345a;
+}
+
+
+section{
+	padding-left: 50px;
+	margin: auto;
+	padding-bottom: 50px;
+
+}
+
+
+
+section img{
+	height: 150px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+
+
+
+h3{
+	padding-top: 10px;
+	margin-bottom: 10px;
+}
+

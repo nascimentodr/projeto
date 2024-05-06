@@ -1,0 +1,79 @@
+*{
+	font-family: arial;
+}
+
+
+body{
+	margin: 0;
+	padding: 0;
+	color: #fff;
+}
+
+
+#topo{
+	height: 74px;
+	background-color: #303884;
+	font-weight: bold;
+}
+
+#topo-interno{
+	width: 1300px;
+
+	height: 74px;
+	margin: auto;
+}
+
+
+#topo-esquerdo{
+	float: left;
+}
+
+#logo{
+	font-size: 50px;
+	line-height: 74px;
+	float: left;
+}
+
+#menu{
+	float: right;
+	color: #ffffff;
+}
+
+
+#menu ul, #acesso{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+
+ul li{
+	float: left;
+	font-size: 22px;
+	line-height: 74px;
+	padding-right: 15px;
+	padding-left: 15px;
+	}
+
+
+
+#cadastro{
+	margin-left: 30px;
+}
+
+
+
+#menu a{
+	text-decoration: none;
+	color: #ffffff;
+
+}
+
+
+#cadastro a{
+	background-color: #576EA9;
+	padding: 5px;
+	border-radius: 10px;
+}
+
+
